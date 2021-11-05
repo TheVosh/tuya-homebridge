@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-whenyoucan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "forked from Official Homebridge plugin for Tuya Open API",
   "main": "index.js",
   "scripts": {
